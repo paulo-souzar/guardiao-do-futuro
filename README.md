@@ -1,4 +1,4 @@
-# Guardião do Futuro: Previsão de Desastres Naturais com IAs
+# Guardião do Futuro: Previsão de desastres naturais com IAs
 
 ## 📒 Descrição
 Este projeto utiliza técnicas avançadas de IA para prever desastres naturais, como terremotos, furacões e inundações. O objetivo é criar modelos preditivos que possam fornecer alertas antecipados e ajudar na preparação e resposta a esses eventos.
